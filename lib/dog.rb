@@ -1,4 +1,4 @@
-class DSog
+class Dog
   def bark
     puts "Woof!"
   end
